@@ -30,9 +30,12 @@ Ce dossier contiendra les différents commits
 ![](modif_commit.png)
 
 ## Renommer les fichiers
-![]()
+
+![](renommer.png)
 
 ## Supprimer les fichiers
+
+![](supprimer.png)
 
 ![]()
 

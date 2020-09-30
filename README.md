@@ -46,4 +46,8 @@ Ce dossier contiendra les différents commits
 ![](VerifEtatPrecedent.png)
 
 
+## Ajout d'une etiquette à un ancien commit
+![]()
+
+
 

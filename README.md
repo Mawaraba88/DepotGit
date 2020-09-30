@@ -38,8 +38,12 @@ Ce dossier contiendra les différents commits
 ![](AffichHistorique.png)
 
 ## Etat précedent du dépot
-![]()
 
+![](RevenirEtatPrecedent.png)
+
+## Etat correspondant au commit
+
+![](VerifEtatPrecedent.png)
 
 
 

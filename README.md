@@ -31,26 +31,42 @@ Ce dossier contiendra les différents commits
 
 ## Renommer les fichiers et Supprimer les fichiers
 
+- Avec la commande ***git mv***, on renomme les fichiers
+- Avec la commande ***git rm***, on supprime les fichiers
+
 ![](renommer.png)
 
 ## Afficher historique des commits
+
+-Avec la commange ***git log***, on affiche l'historique
+des commits
 
 ![](AffichHistorique.png)
 
 ## Etat précedent du dépot
 
+- Avec la commande ***git checkout***, on peut revenir sur le 
+précedent dépôt
+
 ![](RevenirEtatPrecedent.png)
 
 ## Etat correspondant au commit
+
+- Avec la commande ***git status***, on peut voir l'état correspondant
+au commit
 
 ![](VerifEtatPrecedent.png)
 
 
 ## Ajout d'une etiquette à un ancien commit et historique des commits
+- Avec la commande ***git tag***, ont peut ajouter une étiquette
+à un ancien commit
 
 ![](tagVerif.png)
 
 ## Suppression des commits
+
+- Avec la commande ***git reset --hard***
 
 ![](suppressionCommit.png)
 

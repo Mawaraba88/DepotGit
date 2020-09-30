@@ -25,9 +25,16 @@ Ce dossier contiendra les différents commits
 ## Modification et commits
 - Modification du contenu des fichiers crées avec la commande ***vmir***
 - On ajoute le fichier modifié avec la commande ***git add***
-- On fait un commit avec la commande git commit -m
+- On fait un commit avec la commande ***git commit -m***
 
 ![](modif et commit.png)
+
+## Renommer les fichiers
+![]()
+
+## Supprimer les fichiers
+
+![]()
 
 
 

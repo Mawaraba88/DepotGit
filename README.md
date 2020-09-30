@@ -6,7 +6,9 @@ Il peut accéder à l’extérieur en récuperant le document presence19-09-19.
 
 
 # Dépôt Local
-Un dépot local est un dossier que Git versionnalise pour 
+Un dépot local est un dossier que Git versionnalise qui contiendra les différents commits
+
 ## Initialisé un dépot
+
 ![](dépot_local.png)
 

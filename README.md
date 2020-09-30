@@ -1,4 +1,5 @@
 # Installation Git
+
 ***Git*** a bien été installé. 
 Il peut accéder à l’extérieur en récuperant le document presence19-09-19.
 
@@ -6,10 +7,12 @@ Il peut accéder à l’extérieur en récuperant le document presence19-09-19.
 
 
 # Dépôt Local
+
 Un dépot local est un dossier que Git versionnalise.
 Ce dossier contiendra les différents commits
 
 ## Initialisé un dépot
+
 - On creer un dossier avec la commande ***mkdir***
 - Avec la commande ***git init*** on initialise un dépot
 
@@ -23,6 +26,7 @@ Ce dossier contiendra les différents commits
 
 
 ## Modification et commits
+
 - Modification du contenu des fichiers crées avec la commande ***vmir***
 - On ajoute le fichier modifié avec la commande ***git add***
 - On fait un commit avec la commande ***git commit -m***
@@ -38,7 +42,7 @@ Ce dossier contiendra les différents commits
 
 ## Afficher historique des commits
 
--Avec la commange ***git log***, on affiche l'historique
+- Avec la commange ***git log***, on affiche l'historique
 des commits
 
 ![](AffichHistorique.png)

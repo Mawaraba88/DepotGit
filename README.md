@@ -46,8 +46,13 @@ Ce dossier contiendra les différents commits
 ![](VerifEtatPrecedent.png)
 
 
-## Ajout d'une etiquette à un ancien commit
-![]()
+## Ajout d'une etiquette à un ancien commit et historique des commits
+
+![](tagVerif.png)
+
+## Suppression des commits
+
+![](suppressionCommit.png)
 
 
 

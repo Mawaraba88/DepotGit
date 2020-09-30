@@ -27,7 +27,7 @@ Ce dossier contiendra les différents commits
 - On ajoute le fichier modifié avec la commande ***git add***
 - On fait un commit avec la commande ***git commit -m***
 
-![](modif et commit.png)
+![](modif_commit.png)
 
 ## Renommer les fichiers
 ![]()

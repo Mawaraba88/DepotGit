@@ -19,7 +19,11 @@ Ce dossier contiendra les différents commits
 
  Avec la commande touch, on crée un ou plusieurs fichiers
 
-![]()
+![](ajout_fichier.png)
+
+
+
+
 
 
 

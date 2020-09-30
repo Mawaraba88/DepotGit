@@ -43,7 +43,7 @@ Ce dossier contiendra les différents commits
 
 ## Etat correspondant au commit
 
-![](VérifiEtatPrecedent.png)
+![](VerifEtatPrecedent.png)
 
 
 

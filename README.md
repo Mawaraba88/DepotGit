@@ -29,14 +29,15 @@ Ce dossier contiendra les différents commits
 
 ![](modif_commit.png)
 
-## Renommer les fichiers
+## Renommer les fichiers et Supprimer les fichiers
 
 ![](renommer.png)
 
-## Supprimer les fichiers
+## Afficher historique des commits
 
-![](supprimer.png)
+![](AffichHistorique.png)
 
+## Etat précedent du dépot
 ![]()
 
 
